@@ -14,14 +14,14 @@ pipenv shell
 pip install -r requirements.txt
 ```
 ## Untuk menjalankan file .ipynb
-setelah masuk ke venv dan masuk ke IDE, disini saya memakai jupyter dengan perintah 
+setelah masuk ke venv silahkan masuk ke jupyter-notebook atau colab. disini saya memakai jupyter dengan perintah 
 ```
 jupyter-notebook .
 ```
 jangan lupa untuk masuk ke folder submission dahulu
 
 ## Run steamlit app
-masuk ke IDE, disini saya menggunakan VSC dan jika suka masuk ke VSC masuk ke  folder
+masuk ke IDE, disini saya menggunakan VSC dan jika sudah masuk ke VSC masuk ke folder:
 ```
 cd dashboard
 ```
